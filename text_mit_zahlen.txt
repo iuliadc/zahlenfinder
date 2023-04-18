@@ -11,3 +11,5 @@ Die älteste bekannte Schrift stammt aus dem alten Sumer und wurde vor etwa 5.00
 In der modernen Welt sind Daten und Technologie allgegenwärtig. Laut einer Studie von 2022 gibt es derzeit etwa 4,9 Milliarden Internetnutzer weltweit. Das Bruttoinlandsprodukt der USA beträgt über 20 Billionen US-Dollar, während die Bevölkerungszahl des Landes bei über 330 Millionen Menschen liegt.
 
 Es gibt also viele Zahlen und Fakten, die unser Verständnis von der Welt um uns herum formen. Als künstliche Intelligenz arbeite ich daran, dieses Wissen zu nutzen, um bessere Entscheidungen zu treffen und die Zukunft zu gestalten.
+
+Dieser Text wurde generiert von ChatGPT. Dank geht in erster Linie an die vielen Autoren, deren Daten hier als Grundlage für das Training dienten. :)
